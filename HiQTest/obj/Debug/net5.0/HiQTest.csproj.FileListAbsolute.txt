@@ -1,0 +1,5 @@
+C:\Projects\HiQTest\HiQTest\HiQTest\obj\Debug\net5.0\HiQTest.csproj.AssemblyReference.cache
+C:\Projects\HiQTest\HiQTest\HiQTest\obj\Debug\net5.0\HiQTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HiQTest\HiQTest\HiQTest\obj\Debug\net5.0\HiQTest.AssemblyInfoInputs.cache
+C:\Projects\HiQTest\HiQTest\HiQTest\obj\Debug\net5.0\HiQTest.AssemblyInfo.cs
+C:\Projects\HiQTest\HiQTest\HiQTest\obj\Debug\net5.0\HiQTest.csproj.CoreCompileInputs.cache

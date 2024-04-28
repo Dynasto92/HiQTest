@@ -1,0 +1,20 @@
+MOVE
+MOVE
+right
+PLACE 0,0,NORTH
+MOVE
+MOVE
+MOVE
+MOVE
+right
+right
+report
+MOVE
+MOVE
+MOVE
+report
+MOVE
+MOVE
+left
+MOVE
+REPORT

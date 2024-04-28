@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z1Gz5MTXvGN1T/JOGzodtO23KpliiU/JetSObOTtM6G2zJ0bq76u9/WI157SrxKC4B4VPbVBRD09oM8Vp96H5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\HiQTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rominosc\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\rominosc\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\rominosc\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
