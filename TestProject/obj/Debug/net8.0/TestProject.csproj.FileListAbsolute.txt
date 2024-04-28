@@ -109,16 +109,9 @@ C:\Projects\HiQTest\HiQTest\TestProject\obj\Debug\net8.0\refint\TestProject.dll
 C:\Projects\HiQTest\HiQTest\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Projects\HiQTest\HiQTest\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Projects\HiQTest\HiQTest\TestProject\obj\Debug\net8.0\ref\TestProject.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProject
 C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\HiQTest.deps.json
 C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\HiQTest.runtimeconfig.json
 C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\HiQTest.exe
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\Castle.Core.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\Moq.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\nunit.framework.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\nunit.framework.legacy.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
-C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
 C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\HiQTest.dll
 C:\Projects\HiQTest\HiQTest\TestProject\bin\Debug\net8.0\HiQTest.pdb
+C:\Projects\HiQTest\HiQTest\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\HiQTest\\HiQTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C8D146A-0524-4C83-92AC-FDF918AFCE6C}|TestProject\\TestProject.csproj|c:\\projects\\hiqtest\\hiqtest\\testproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8D146A-0524-4C83-92AC-FDF918AFCE6C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|solutionrelative:hiqtest\\instructions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\instructionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|solutionrelative:hiqtest\\instructionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|solutionrelative:hiqtest\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\instructionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|solutionrelative:hiqtest\\instructionsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|solutionrelative:hiqtest\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C8D146A-0524-4C83-92AC-FDF918AFCE6C}|TestProject\\TestProject.csproj|c:\\projects\\hiqtest\\hiqtest\\testproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C8D146A-0524-4C83-92AC-FDF918AFCE6C}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D94D82F4-3EE5-499A-A8A4-149BB50F6845}|HiQTest\\HiQTest.csproj|c:\\projects\\hiqtest\\hiqtest\\hiqtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 2030,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "UnitTests.cs",
               "DocumentMoniker": "C:\\Projects\\HiQTest\\HiQTest\\TestProject\\UnitTests.cs",
               "RelativeDocumentMoniker": "TestProject\\UnitTests.cs",
               "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\TestProject\\UnitTests.cs",
               "RelativeToolTip": "TestProject\\UnitTests.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAsAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T11:48:43.539Z",
               "IsPinned": true,
@@ -111,7 +111,8 @@
               "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\TestProject\\TestProject.csproj",
               "RelativeToolTip": "TestProject\\TestProject.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T10:37:03.409Z"
+              "WhenOpened": "2024-04-28T10:37:03.409Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,24 +123,25 @@
               "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\HiQTest.csproj",
               "RelativeToolTip": "HiQTest\\HiQTest.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-28T10:33:40.559Z"
+              "WhenOpened": "2024-04-28T10:33:40.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Instructions.txt",
               "DocumentMoniker": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Instructions.txt",
               "RelativeDocumentMoniker": "HiQTest\\Instructions.txt",
-              "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Instructions.txt*",
-              "RelativeToolTip": "HiQTest\\Instructions.txt*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Instructions.txt",
+              "RelativeToolTip": "HiQTest\\Instructions.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-04-27T11:19:47.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InstructionsClass.cs",
               "DocumentMoniker": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\InstructionsClass.cs",
               "RelativeDocumentMoniker": "HiQTest\\InstructionsClass.cs",
@@ -158,14 +160,14 @@
               "RelativeDocumentMoniker": "HiQTest\\GameManager.cs",
               "ToolTip": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\GameManager.cs",
               "RelativeToolTip": "HiQTest\\GameManager.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAADgv1MAAAAVAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAADgv1MAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T09:15:38.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Table.cs",
               "RelativeDocumentMoniker": "HiQTest\\Table.cs",
@@ -178,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Robot.cs",
               "DocumentMoniker": "C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Robot.cs",
               "RelativeDocumentMoniker": "HiQTest\\Robot.cs",
