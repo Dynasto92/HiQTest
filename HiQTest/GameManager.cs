@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HiQTest
+﻿namespace HiQTest
 {
     public class GameManager
     {
@@ -14,7 +8,7 @@ namespace HiQTest
         public GameManager(int width, int height)
         {
             Table = new Table(width, height);
-            Robot = new Robot(/*instructions.X, instructions.Y, instructions.Orientation*/);
+            Robot = new Robot();
         }
 
         public bool TryPlacingRobot(InstructionsClass instructions)
@@ -34,7 +28,7 @@ namespace HiQTest
 
         public bool InterpretCommand(string result)
         {
-            if (result.ToLower().Contains("place") && ValidatePlaceCommand(result, out InstructionsClass instructions))
+            if (result.ToLower().Contains("place") && TryParsePlaceCommand(result, out InstructionsClass instructions))
             {
                 return TryPlacingRobot(instructions);
             }
@@ -68,7 +62,7 @@ namespace HiQTest
             return false;
         }
 
-        private bool ValidatePlaceCommand(string result, out InstructionsClass instructions)
+        private bool TryParsePlaceCommand(string result, out InstructionsClass instructions)
         {
             instructions = new InstructionsClass();
             var splitString = result.Split(' ');

@@ -1,16 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-using HiQTest;
-using Moq;
-using System.Net.WebSockets;
-using System.Runtime.CompilerServices;
-using System.Text;
+﻿using HiQTest;
 
 var result = "";
 var gm = new GameManager(5, 5);
 var validCommand = false;
 
-//C:\\Projects\\HiQTest\\HiQTest\\HiQTest\\Instructions.txt
 // This path worked for me but you may need to adjust it
 var lines = File.ReadLines("../../../Instructions.txt");
 
